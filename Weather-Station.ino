@@ -3,7 +3,11 @@ Arduino Weather Station (Ethernet)
 
 Arduino Ethernet shield on an Arduino Uno: Weather station that sends data to Weather Underground for storage and viewing.
 
-By Dan Fein
+---
+Original weather-station implementation: Adapted from code published by Adafruit forum user fmbfla (“the drunkin programer”), January 2014.
+
+Original discussion: https://forums.adafruit.com/viewtopic.php?t=49032
+--
 
 Sensors from Adafruit, see their product pages for those libraries.
 
